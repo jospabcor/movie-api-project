@@ -1,0 +1,19 @@
+{
+  "name": "movie-api-project",
+  "version": "1.0.0",
+  "description": "Small project using the movie database api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jospabcor/movie-api-project.git"
+  },
+  "author": "@jospabcor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jospabcor/movie-api-project/issues"
+  },
+  "homepage": "https://github.com/jospabcor/movie-api-project#readme"
+}
